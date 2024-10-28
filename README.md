@@ -45,4 +45,4 @@ The dataset contains 18 columns and 1,00,000 rows and which is available in Kagg
 
 **Dataset link** : https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data
 
-**Medium link** : 
+**Medium link** : https://medium.com/@jananishankar164/uncovering-insights-exploring-employee-salary-010c4413e37d
